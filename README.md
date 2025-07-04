@@ -26,29 +26,23 @@
 
 ---
 
-## 🗂️ Project Structure
+## 🧰 Tech Stack
 
-SSH/
-└── src/
-├── assets/ # Game images and backgrounds
-├── music/ # Background tracks
-├── sounds/ # SFX (jumps, hits, etc.)
-├── UI.py # User interface rendering
-├── engine.py # Core game loop and ECS logic
-├── globals.py # Shared constants and variables
-├── inputstream.py # Input management for keyboard/controllers
-├── level.py # Level layout and objects
-├── main.py # Entry point
-├── scene.py # Scene transitions (win/lose, menu)
-├── soundmanager.py # Music/SFX playback
-└── utils.py # Helper functions and utilities
+- **Language:** Python 3.8+
+- **Library:** Pygame
+- **Architecture:** Entity-Component-System (ECS)
+- **Input:** PS4/Xbox controller & keyboard support
+- **Sound:** Custom SFX and music playback
+- **Graphics:** Sprite-based animations and transitions
 
-
+---
 
 ### Prerequisites
 
 - Python 3.8+
 - Pygame
+
+---
 
 ### Installation
 
