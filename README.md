@@ -41,9 +41,9 @@ SSH/
 ├── main.py # Entry point
 ├── scene.py # Scene transitions (win/lose, menu)
 ├── soundmanager.py # Music/SFX playback
-└── utils.py # Helper functions/utilities
+└── utils.py # Helper functions and utilities
 
-## 🚀 Getting Started
+
 
 ### Prerequisites
 
