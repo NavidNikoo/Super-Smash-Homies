@@ -37,6 +37,16 @@
 
 ---
 
+## 🎯 Game Mechanics
+
+- **Versus Mode:** Up to four players compete locally
+- **Split-Screen View:** Each player has their own camera
+- **Character Select:** Choose from multiple characters and maps
+- **Combat System:** Melee attacks, hazards, and dynamic win conditions
+- **Win/Lose Scenes:** Polished transitions with audio and animations
+
+---
+
 ### Prerequisites
 
 - Python 3.8+
